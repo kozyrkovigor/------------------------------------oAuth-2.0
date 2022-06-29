@@ -54,4 +54,4 @@ savefig('example.png')
 show()
 ```
 
-![Картинка](https://1.downloader.disk.yandex.ru/preview/59566a6f9354cd9b21e9b5bd3e35531d4a002ce1b66f2e73bda00e5a8f47ef53/inf/aSsYIesUkt3TJlF_NwFs7aBqjgZcf2cp2ErC4xF1i9EJzqHqM0Eh3hmMd8fD9LAcQ8IeF_4aLiIgLFstdOiqBA%3D%3D?uid=273232321&filename=2022-06-29_14-41-55.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=273232321&tknv=v2&size=1903x937)
+![Картинка](https://disk.yandex.ru/i/gWvhKF9MCotQOQ)
