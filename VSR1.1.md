@@ -54,4 +54,4 @@ savefig('example.png')
 show()
 ```
 
-![Картинка](https://disk.yandex.ru/i/gWvhKF9MCotQOQ)
+![Картинка](https://i.ibb.co/x3BJYPM/2022-06-29-14-41-55.png)
