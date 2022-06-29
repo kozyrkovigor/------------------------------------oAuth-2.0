@@ -47,11 +47,14 @@ plt.quiver() | векторное поле
 Следующий пример иллюстрирует построение графика:
 
 ```python
-from pylab import *
-plot(range(1, 20),
-     [i * i for i in range(1, 20)], 'ro')
-savefig('example.png')
-show()
+import matplotlib.pyplot as plt 
+
+year = [1950, 1975, 2000, 2018] 
+population = [2.12, 3.681, 5.312, 6.981] 
+
+plt.plot(year, population) 
+plt.show()
+
 ```
 
 ![Картинка](https://i.ibb.co/x3BJYPM/2022-06-29-14-41-55.png)
