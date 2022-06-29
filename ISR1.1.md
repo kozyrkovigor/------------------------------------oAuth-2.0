@@ -25,7 +25,7 @@ import random
 print(random.random())
 ```
 ```python
-0.012878858452924136
+0.18982123468953094
 ```
 
 ### Генерация случайных чисел в Python
@@ -38,13 +38,13 @@ print(random.random())
 ```python
 from random import randint, randrange
 
-print(randint(0, 9))
-print(randrange(0, 10, 2))
+print(randint(0, 40))
+print(randrange(0, 100, 10))
 ```
 
 ```python
-1
-6
+36
+70
 ```
 
 ### Выбор случайного элемента из списка Python
