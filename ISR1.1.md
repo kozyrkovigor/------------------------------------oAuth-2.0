@@ -51,11 +51,12 @@ print(randrange(0, 100, 10))
 
 ```python
 import random
- 
-list = ['New York', 'Los Angeles', 'Chicago', 'Houston', 'Philadelphia']
-print(random.choice(list))
+
+test_list = ["1", "2", "3", "4", "5", "6"]
+
+print(random.choice(test_list))
 ```
 
 ```python
-Los Angeles
+1
 ```
